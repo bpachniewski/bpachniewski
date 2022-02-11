@@ -1,5 +1,5 @@
  
-##    🌅Hello there
- -> :ice_cube: currently learning Python libraries and its Django framework </br>
- -> :ice_cube: looking for opportunity to participate in web development projects
+##   🚀:Hello there
+ -> :star: currently learning Python libraries and its Django framework </br>
+ -> :star: looking for opportunity to participate in web development projects
  -> 🏋️‍♂️
